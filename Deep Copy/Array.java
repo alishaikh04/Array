@@ -11,7 +11,7 @@ public void increment() {
     } 
     anArray = newAnArray;
 }
-
+ @Override
 public String toString() {
    String result = "";
    for(int i = 0; i < anArray.length; i++){
