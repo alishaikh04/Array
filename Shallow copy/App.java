@@ -1,4 +1,4 @@
-public class Main {
+public class App {
    public void run(){
 
     try {
