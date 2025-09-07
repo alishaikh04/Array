@@ -9,7 +9,7 @@ public void increment() {
        anArray[i]++;  
     } 
 }
-
+@Override
 public String toString() {
    String result = "";
    for(int i = 0; i < anArray.length; i++){
