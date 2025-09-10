@@ -1,4 +1,4 @@
-public class App {
+public class App extends Array {
    public void run(){
 
     try {
